@@ -4,8 +4,8 @@
         "id": 1,
         "name": "Seiko 5 Sports",
         "images": [
-          "seiko5-1.jpg",
-          "seiko5-2.jpg"
+          "https://via.assets.so/watch.webp?id=1&q=95&w=250&h=250",
+          "https://via.assets.so/watch.webp?id=16&q=95&w=250&h=250"
         ],
         "price": 2500000,
         "colors": ["black", "blue", "green"],
@@ -15,8 +15,8 @@
         "id": 2,
         "name": "Casio G-Shock",
         "images": [
-          "gshock1.jpg",
-          "gshock2.jpg"
+            "https://via.assets.so/watch.webp?id=2&q=95&w=250&h=250",
+            "https://via.assets.so/watch.webp?id=17&q=95&w=250&h=250"  
         ],
         "price": 1500000,
         "colors": ["black", "red", "white"],
@@ -26,8 +26,8 @@
         "id": 3,
         "name": "Apple Watch Series 9",
         "images": [
-          "applewatch9-1.jpg",
-          "applewatch9-2.jpg"
+            "https://via.assets.so/watch.webp?id=3&q=95&w=250&h=250",
+            "https://via.assets.so/watch.webp?id=18&q=95&w=250&h=250"  
         ],
         "price": 7500000,
         "colors": ["black", "silver", "gold"],
@@ -37,8 +37,8 @@
         "id": 4,
         "name": "Rolex Submariner",
         "images": [
-          "rolexsub-1.jpg",
-          "rolexsub-2.jpg"
+            "https://via.assets.so/watch.webp?id=4&q=95&w=250&h=250",
+            "https://via.assets.so/watch.webp?id=19&q=95&w=250&h=250"  
         ],
         "price": 150000000,
         "colors": ["black", "blue", "green"],
@@ -48,8 +48,8 @@
         "id": 5,
         "name": "Timex Weekender",
         "images": [
-          "timexweekender1.jpg",
-          "timexweekender2.jpg"
+            "https://via.assets.so/watch.webp?id=5&q=95&w=250&h=250",
+            "https://via.assets.so/watch.webp?id=20&q=95&w=250&h=250"  
         ],
         "price": 450000,
         "colors": ["brown", "black", "white"],
@@ -59,8 +59,8 @@
         "id": 6,
         "name": "Samsung Galaxy Watch 6",
         "images": [
-          "galaxywatch6-1.jpg",
-          "galaxywatch6-2.jpg"
+            "https://via.assets.so/watch.webp?id=6&q=95&w=250&h=250",
+            "https://via.assets.so/watch.webp?id=21&q=95&w=250&h=250"  
         ],
         "price": 5000000,
         "colors": ["black", "silver", "gold"],
@@ -70,8 +70,8 @@
         "id": 7,
         "name": "Fossil Gen 6",
         "images": [
-          "fossilgen6-1.jpg",
-          "fossilgen6-2.jpg"
+            "https://via.assets.so/watch.webp?id=7&q=95&w=250&h=250",
+            "https://via.assets.so/watch.webp?id=22&q=95&w=250&h=250"  
         ],
         "price": 4200000,
         "colors": ["brown", "black", "blue"],
@@ -81,8 +81,8 @@
         "id": 8,
         "name": "Tissot PRX",
         "images": [
-          "tissotprx-1.jpg",
-          "tissotprx-2.jpg"
+            "https://via.assets.so/watch.webp?id=8&q=95&w=250&h=250",
+            "https://via.assets.so/watch.webp?id=23&q=95&w=250&h=250"  
         ],
         "price": 8000000,
         "colors": ["blue", "silver", "black"],
@@ -92,8 +92,8 @@
         "id": 9,
         "name": "Citizen Eco-Drive",
         "images": [
-          "citizeneco-1.jpg",
-          "citizeneco-2.jpg"
+            "https://via.assets.so/watch.webp?id=9&q=95&w=250&h=250",
+            "https://via.assets.so/watch.webp?id=24&q=95&w=250&h=250"  
         ],
         "price": 3000000,
         "colors": ["black", "white", "blue"],
@@ -103,8 +103,8 @@
         "id": 10,
         "name": "Omega Seamaster",
         "images": [
-          "omegaseamaster-1.jpg",
-          "omegaseamaster-2.jpg"
+            "https://via.assets.so/watch.webp?id=10&q=95&w=250&h=250",
+            "https://via.assets.so/watch.webp?id=25&q=95&w=250&h=250"  
         ],
         "price": 85000000,
         "colors": ["blue", "black", "silver"],
@@ -114,8 +114,8 @@
         "id": 11,
         "name": "Garmin Fenix 7",
         "images": [
-          "garminfenix7-1.jpg",
-          "garminfenix7-2.jpg"
+            "https://via.assets.so/watch.webp?id=11&q=95&w=250&h=250",
+            "https://via.assets.so/watch.webp?id=26&q=95&w=250&h=250"  
         ],
         "price": 10000000,
         "colors": ["black", "gray", "silver"],
@@ -125,8 +125,8 @@
         "id": 12,
         "name": "Hamilton Khaki Field",
         "images": [
-          "hamiltonkhaki-1.jpg",
-          "hamiltonkhaki-2.jpg"
+            "https://via.assets.so/watch.webp?id=12&q=95&w=250&h=250",
+            "https://via.assets.so/watch.webp?id=27&q=95&w=250&h=250"  
         ],
         "price": 9500000,
         "colors": ["green", "black", "brown"],
@@ -136,8 +136,8 @@
         "id": 13,
         "name": "Bulova Precisionist",
         "images": [
-          "bulovaprecisionist-1.jpg",
-          "bulovaprecisionist-2.jpg"
+            "https://via.assets.so/watch.webp?id=13&q=95&w=250&h=250",
+            "https://via.assets.so/watch.webp?id=18&q=95&w=250&h=250"  
         ],
         "price": 5500000,
         "colors": ["black", "silver", "blue"],
@@ -147,8 +147,8 @@
         "id": 14,
         "name": "TAG Heuer Carrera",
         "images": [
-          "tagcarrera-1.jpg",
-          "tagcarrera-2.jpg"
+            "https://via.assets.so/watch.webp?id=14&q=95&w=250&h=250",
+            "https://via.assets.so/watch.webp?id=19&q=95&w=250&h=250"  
         ],
         "price": 35000000,
         "colors": ["silver", "black", "blue"],
@@ -158,8 +158,8 @@
         "id": 15,
         "name": "Longines HydroConquest",
         "images": [
-          "longineshydro-1.jpg",
-          "longineshydro-2.jpg"
+            "https://via.assets.so/watch.webp?id=15&q=95&w=250&h=250",
+            "https://via.assets.so/watch.webp?id=30&q=95&w=250&h=250"  
         ],
         "price": 15000000,
         "colors": ["blue", "black", "green"],
