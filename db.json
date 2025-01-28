@@ -1,0 +1,170 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Seiko 5 Sports",
+        "images": [
+          "seiko5-1.jpg",
+          "seiko5-2.jpg"
+        ],
+        "price": 2500000,
+        "colors": ["black", "blue", "green"],
+        "rating": 4.5
+      },
+      {
+        "id": 2,
+        "name": "Casio G-Shock",
+        "images": [
+          "gshock1.jpg",
+          "gshock2.jpg"
+        ],
+        "price": 1500000,
+        "colors": ["black", "red", "white"],
+        "rating": 4.7
+      },
+      {
+        "id": 3,
+        "name": "Apple Watch Series 9",
+        "images": [
+          "applewatch9-1.jpg",
+          "applewatch9-2.jpg"
+        ],
+        "price": 7500000,
+        "colors": ["black", "silver", "gold"],
+        "rating": 4.8
+      },
+      {
+        "id": 4,
+        "name": "Rolex Submariner",
+        "images": [
+          "rolexsub-1.jpg",
+          "rolexsub-2.jpg"
+        ],
+        "price": 150000000,
+        "colors": ["black", "blue", "green"],
+        "rating": 4.9
+      },
+      {
+        "id": 5,
+        "name": "Timex Weekender",
+        "images": [
+          "timexweekender1.jpg",
+          "timexweekender2.jpg"
+        ],
+        "price": 450000,
+        "colors": ["brown", "black", "white"],
+        "rating": 4.2
+      },
+      {
+        "id": 6,
+        "name": "Samsung Galaxy Watch 6",
+        "images": [
+          "galaxywatch6-1.jpg",
+          "galaxywatch6-2.jpg"
+        ],
+        "price": 5000000,
+        "colors": ["black", "silver", "gold"],
+        "rating": 4.6
+      },
+      {
+        "id": 7,
+        "name": "Fossil Gen 6",
+        "images": [
+          "fossilgen6-1.jpg",
+          "fossilgen6-2.jpg"
+        ],
+        "price": 4200000,
+        "colors": ["brown", "black", "blue"],
+        "rating": 4.5
+      },
+      {
+        "id": 8,
+        "name": "Tissot PRX",
+        "images": [
+          "tissotprx-1.jpg",
+          "tissotprx-2.jpg"
+        ],
+        "price": 8000000,
+        "colors": ["blue", "silver", "black"],
+        "rating": 4.7
+      },
+      {
+        "id": 9,
+        "name": "Citizen Eco-Drive",
+        "images": [
+          "citizeneco-1.jpg",
+          "citizeneco-2.jpg"
+        ],
+        "price": 3000000,
+        "colors": ["black", "white", "blue"],
+        "rating": 4.6
+      },
+      {
+        "id": 10,
+        "name": "Omega Seamaster",
+        "images": [
+          "omegaseamaster-1.jpg",
+          "omegaseamaster-2.jpg"
+        ],
+        "price": 85000000,
+        "colors": ["blue", "black", "silver"],
+        "rating": 4.9
+      },
+      {
+        "id": 11,
+        "name": "Garmin Fenix 7",
+        "images": [
+          "garminfenix7-1.jpg",
+          "garminfenix7-2.jpg"
+        ],
+        "price": 10000000,
+        "colors": ["black", "gray", "silver"],
+        "rating": 4.8
+      },
+      {
+        "id": 12,
+        "name": "Hamilton Khaki Field",
+        "images": [
+          "hamiltonkhaki-1.jpg",
+          "hamiltonkhaki-2.jpg"
+        ],
+        "price": 9500000,
+        "colors": ["green", "black", "brown"],
+        "rating": 4.7
+      },
+      {
+        "id": 13,
+        "name": "Bulova Precisionist",
+        "images": [
+          "bulovaprecisionist-1.jpg",
+          "bulovaprecisionist-2.jpg"
+        ],
+        "price": 5500000,
+        "colors": ["black", "silver", "blue"],
+        "rating": 4.4
+      },
+      {
+        "id": 14,
+        "name": "TAG Heuer Carrera",
+        "images": [
+          "tagcarrera-1.jpg",
+          "tagcarrera-2.jpg"
+        ],
+        "price": 35000000,
+        "colors": ["silver", "black", "blue"],
+        "rating": 4.8
+      },
+      {
+        "id": 15,
+        "name": "Longines HydroConquest",
+        "images": [
+          "longineshydro-1.jpg",
+          "longineshydro-2.jpg"
+        ],
+        "price": 15000000,
+        "colors": ["blue", "black", "green"],
+        "rating": 4.7
+      }
+    ]
+  }
+  
