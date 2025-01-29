@@ -1,170 +1,366 @@
 {
-    "products": [
-      {
-        "id": 1,
-        "name": "Seiko 5 Sports",
-        "images": [
-          "https://via.assets.so/watch.webp?id=1&q=95&w=250&h=250",
-          "https://via.assets.so/watch.webp?id=16&q=95&w=250&h=250"
-        ],
-        "price": 2500000,
-        "colors": ["black", "blue", "green"],
-        "rating": 4.5
-      },
-      {
-        "id": 2,
-        "name": "Casio G-Shock",
-        "images": [
-            "https://via.assets.so/watch.webp?id=2&q=95&w=250&h=250",
-            "https://via.assets.so/watch.webp?id=17&q=95&w=250&h=250"  
-        ],
-        "price": 1500000,
-        "colors": ["black", "red", "white"],
-        "rating": 4.7
-      },
-      {
-        "id": 3,
-        "name": "Apple Watch Series 9",
-        "images": [
-            "https://via.assets.so/watch.webp?id=3&q=95&w=250&h=250",
-            "https://via.assets.so/watch.webp?id=18&q=95&w=250&h=250"  
-        ],
-        "price": 7500000,
-        "colors": ["black", "silver", "gold"],
-        "rating": 4.8
-      },
-      {
-        "id": 4,
-        "name": "Rolex Submariner",
-        "images": [
-            "https://via.assets.so/watch.webp?id=4&q=95&w=250&h=250",
-            "https://via.assets.so/watch.webp?id=19&q=95&w=250&h=250"  
-        ],
-        "price": 150000000,
-        "colors": ["black", "blue", "green"],
-        "rating": 4.9
-      },
-      {
-        "id": 5,
-        "name": "Timex Weekender",
-        "images": [
-            "https://via.assets.so/watch.webp?id=5&q=95&w=250&h=250",
-            "https://via.assets.so/watch.webp?id=20&q=95&w=250&h=250"  
-        ],
-        "price": 450000,
-        "colors": ["brown", "black", "white"],
-        "rating": 4.2
-      },
-      {
-        "id": 6,
-        "name": "Samsung Galaxy Watch 6",
-        "images": [
-            "https://via.assets.so/watch.webp?id=6&q=95&w=250&h=250",
-            "https://via.assets.so/watch.webp?id=21&q=95&w=250&h=250"  
-        ],
-        "price": 5000000,
-        "colors": ["black", "silver", "gold"],
-        "rating": 4.6
-      },
-      {
-        "id": 7,
-        "name": "Fossil Gen 6",
-        "images": [
-            "https://via.assets.so/watch.webp?id=7&q=95&w=250&h=250",
-            "https://via.assets.so/watch.webp?id=22&q=95&w=250&h=250"  
-        ],
-        "price": 4200000,
-        "colors": ["brown", "black", "blue"],
-        "rating": 4.5
-      },
-      {
-        "id": 8,
-        "name": "Tissot PRX",
-        "images": [
-            "https://via.assets.so/watch.webp?id=8&q=95&w=250&h=250",
-            "https://via.assets.so/watch.webp?id=23&q=95&w=250&h=250"  
-        ],
-        "price": 8000000,
-        "colors": ["blue", "silver", "black"],
-        "rating": 4.7
-      },
-      {
-        "id": 9,
-        "name": "Citizen Eco-Drive",
-        "images": [
-            "https://via.assets.so/watch.webp?id=9&q=95&w=250&h=250",
-            "https://via.assets.so/watch.webp?id=24&q=95&w=250&h=250"  
-        ],
-        "price": 3000000,
-        "colors": ["black", "white", "blue"],
-        "rating": 4.6
-      },
-      {
-        "id": 10,
-        "name": "Omega Seamaster",
-        "images": [
-            "https://via.assets.so/watch.webp?id=10&q=95&w=250&h=250",
-            "https://via.assets.so/watch.webp?id=25&q=95&w=250&h=250"  
-        ],
-        "price": 85000000,
-        "colors": ["blue", "black", "silver"],
-        "rating": 4.9
-      },
-      {
-        "id": 11,
-        "name": "Garmin Fenix 7",
-        "images": [
-            "https://via.assets.so/watch.webp?id=11&q=95&w=250&h=250",
-            "https://via.assets.so/watch.webp?id=26&q=95&w=250&h=250"  
-        ],
-        "price": 10000000,
-        "colors": ["black", "gray", "silver"],
-        "rating": 4.8
-      },
-      {
-        "id": 12,
-        "name": "Hamilton Khaki Field",
-        "images": [
-            "https://via.assets.so/watch.webp?id=12&q=95&w=250&h=250",
-            "https://via.assets.so/watch.webp?id=27&q=95&w=250&h=250"  
-        ],
-        "price": 9500000,
-        "colors": ["green", "black", "brown"],
-        "rating": 4.7
-      },
-      {
-        "id": 13,
-        "name": "Bulova Precisionist",
-        "images": [
-            "https://via.assets.so/watch.webp?id=13&q=95&w=250&h=250",
-            "https://via.assets.so/watch.webp?id=18&q=95&w=250&h=250"  
-        ],
-        "price": 5500000,
-        "colors": ["black", "silver", "blue"],
-        "rating": 4.4
-      },
-      {
-        "id": 14,
-        "name": "TAG Heuer Carrera",
-        "images": [
-            "https://via.assets.so/watch.webp?id=14&q=95&w=250&h=250",
-            "https://via.assets.so/watch.webp?id=19&q=95&w=250&h=250"  
-        ],
-        "price": 35000000,
-        "colors": ["silver", "black", "blue"],
-        "rating": 4.8
-      },
-      {
-        "id": 15,
-        "name": "Longines HydroConquest",
-        "images": [
-            "https://via.assets.so/watch.webp?id=15&q=95&w=250&h=250",
-            "https://via.assets.so/watch.webp?id=30&q=95&w=250&h=250"  
-        ],
-        "price": 15000000,
-        "colors": ["blue", "black", "green"],
-        "rating": 4.7
-      }
-    ]
-  }
-  
+  "products": [
+    {
+      "id": 1,
+      "name": "Seiko 5 Sports",
+      "images": [
+        "https://via.assets.so/watch.webp?id=1&q=95&w=250&h=250",
+        "https://via.assets.so/watch.webp?id=16&q=95&w=250&h=250"
+      ],
+      "price": 2500000,
+      "colors": [
+        "black",
+        "blue",
+        "green"
+      ],
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Casio G-Shock",
+      "images": [
+        "https://via.assets.so/watch.webp?id=2&q=95&w=250&h=250",
+        "https://via.assets.so/watch.webp?id=17&q=95&w=250&h=250"
+      ],
+      "price": 1500000,
+      "colors": [
+        "black",
+        "red",
+        "white"
+      ],
+      "rating": 4.7
+    },
+    {
+      "id": 3,
+      "name": "Apple Watch Series 9",
+      "images": [
+        "https://via.assets.so/watch.webp?id=3&q=95&w=250&h=250",
+        "https://via.assets.so/watch.webp?id=18&q=95&w=250&h=250"
+      ],
+      "price": 7500000,
+      "colors": [
+        "black",
+        "silver",
+        "gold"
+      ],
+      "rating": 4.8
+    },
+    {
+      "id": 4,
+      "name": "Rolex Submariner",
+      "images": [
+        "https://via.assets.so/watch.webp?id=4&q=95&w=250&h=250",
+        "https://via.assets.so/watch.webp?id=19&q=95&w=250&h=250"
+      ],
+      "price": 150000000,
+      "colors": [
+        "black",
+        "blue",
+        "green"
+      ],
+      "rating": 4.9
+    },
+    {
+      "id": 5,
+      "name": "Timex Weekender",
+      "images": [
+        "https://via.assets.so/watch.webp?id=5&q=95&w=250&h=250",
+        "https://via.assets.so/watch.webp?id=20&q=95&w=250&h=250"
+      ],
+      "price": 450000,
+      "colors": [
+        "brown",
+        "black",
+        "white"
+      ],
+      "rating": 4.2
+    },
+    {
+      "id": 6,
+      "name": "Samsung Galaxy Watch 6",
+      "images": [
+        "https://via.assets.so/watch.webp?id=6&q=95&w=250&h=250",
+        "https://via.assets.so/watch.webp?id=21&q=95&w=250&h=250"
+      ],
+      "price": 5000000,
+      "colors": [
+        "black",
+        "silver",
+        "gold"
+      ],
+      "rating": 4.6
+    },
+    {
+      "id": 7,
+      "name": "Fossil Gen 6",
+      "images": [
+        "https://via.assets.so/watch.webp?id=7&q=95&w=250&h=250",
+        "https://via.assets.so/watch.webp?id=22&q=95&w=250&h=250"
+      ],
+      "price": 4200000,
+      "colors": [
+        "brown",
+        "black",
+        "blue"
+      ],
+      "rating": 4.5
+    },
+    {
+      "id": 8,
+      "name": "Tissot PRX",
+      "images": [
+        "https://via.assets.so/watch.webp?id=8&q=95&w=250&h=250",
+        "https://via.assets.so/watch.webp?id=23&q=95&w=250&h=250"
+      ],
+      "price": 8000000,
+      "colors": [
+        "blue",
+        "silver",
+        "black"
+      ],
+      "rating": 4.7
+    },
+    {
+      "id": 9,
+      "name": "Citizen Eco-Drive",
+      "images": [
+        "https://via.assets.so/watch.webp?id=9&q=95&w=250&h=250",
+        "https://via.assets.so/watch.webp?id=24&q=95&w=250&h=250"
+      ],
+      "price": 3000000,
+      "colors": [
+        "black",
+        "white",
+        "blue"
+      ],
+      "rating": 4.6
+    },
+    {
+      "id": 10,
+      "name": "Omega Seamaster",
+      "images": [
+        "https://via.assets.so/watch.webp?id=10&q=95&w=250&h=250",
+        "https://via.assets.so/watch.webp?id=25&q=95&w=250&h=250"
+      ],
+      "price": 85000000,
+      "colors": [
+        "blue",
+        "black",
+        "silver"
+      ],
+      "rating": 4.9
+    },
+    {
+      "id": 11,
+      "name": "Garmin Fenix 7",
+      "images": [
+        "https://via.assets.so/watch.webp?id=11&q=95&w=250&h=250",
+        "https://via.assets.so/watch.webp?id=26&q=95&w=250&h=250"
+      ],
+      "price": 10000000,
+      "colors": [
+        "black",
+        "gray",
+        "silver"
+      ],
+      "rating": 4.8
+    },
+    {
+      "id": 12,
+      "name": "Hamilton Khaki Field",
+      "images": [
+        "https://via.assets.so/watch.webp?id=12&q=95&w=250&h=250",
+        "https://via.assets.so/watch.webp?id=27&q=95&w=250&h=250"
+      ],
+      "price": 9500000,
+      "colors": [
+        "green",
+        "black",
+        "brown"
+      ],
+      "rating": 4.7
+    },
+    {
+      "id": 13,
+      "name": "Bulova Precisionist",
+      "images": [
+        "https://via.assets.so/watch.webp?id=13&q=95&w=250&h=250",
+        "https://via.assets.so/watch.webp?id=18&q=95&w=250&h=250"
+      ],
+      "price": 5500000,
+      "colors": [
+        "black",
+        "silver",
+        "blue"
+      ],
+      "rating": 4.4
+    },
+    {
+      "id": 14,
+      "name": "TAG Heuer Carrera",
+      "images": [
+        "https://via.assets.so/watch.webp?id=14&q=95&w=250&h=250",
+        "https://via.assets.so/watch.webp?id=19&q=95&w=250&h=250"
+      ],
+      "price": 35000000,
+      "colors": [
+        "silver",
+        "black",
+        "blue"
+      ],
+      "rating": 4.8
+    },
+    {
+      "id": 15,
+      "name": "Longines HydroConquest",
+      "images": [
+        "https://via.assets.so/watch.webp?id=15&q=95&w=250&h=250",
+        "https://via.assets.so/watch.webp?id=30&q=95&w=250&h=250"
+      ],
+      "price": 15000000,
+      "colors": [
+        "blue",
+        "black",
+        "green"
+      ],
+      "rating": 4.7
+    }
+  ],
+  "specifications": [
+    {
+      "productId": 1,
+      "brand": "Seiko",
+      "movement": "Automatic",
+      "water_resistance": "100m",
+      "case_material": "Stainless Steel",
+      "dial_color": "Black",
+      "band_material": "Leather"
+    },
+    {
+      "productId": 2,
+      "brand": "Casio",
+      "movement": "Quartz",
+      "water_resistance": "200m",
+      "case_material": "Resin",
+      "dial_color": "Blue",
+      "band_material": "Rubber"
+    },
+    {
+      "productId": 3,
+      "brand": "Apple",
+      "movement": "Digital",
+      "water_resistance": "50m",
+      "case_material": "Aluminum",
+      "dial_color": "Gray",
+      "band_material": "Silicone"
+    },
+    {
+      "productId": 4,
+      "brand": "Rolex",
+      "movement": "Automatic",
+      "water_resistance": "300m",
+      "case_material": "Gold",
+      "dial_color": "Green",
+      "band_material": "Metal"
+    },
+    {
+      "productId": 5,
+      "brand": "Timex",
+      "movement": "Quartz",
+      "water_resistance": "30m",
+      "case_material": "Brass",
+      "dial_color": "White",
+      "band_material": "Fabric"
+    },
+    {
+      "productId": 6,
+      "brand": "Samsung",
+      "movement": "Digital",
+      "water_resistance": "50m",
+      "case_material": "Titanium",
+      "dial_color": "Black",
+      "band_material": "Silicone"
+    },
+    {
+      "productId": 7,
+      "brand": "Fossil",
+      "movement": "HybrproductId",
+      "water_resistance": "100m",
+      "case_material": "Stainless Steel",
+      "dial_color": "Brown",
+      "band_material": "Leather"
+    },
+    {
+      "productId": 8,
+      "brand": "Tissot",
+      "movement": "Automatic",
+      "water_resistance": "100m",
+      "case_material": "Titanium",
+      "dial_color": "Black",
+      "band_material": "Metal"
+    },
+    {
+      "productId": 9,
+      "brand": "Citizen",
+      "movement": "Eco-Drive",
+      "water_resistance": "100m",
+      "case_material": "Stainless Steel",
+      "dial_color": "Silver",
+      "band_material": "Leather"
+    },
+    {
+      "productId": 10,
+      "brand": "Omega",
+      "movement": "Automatic",
+      "water_resistance": "300m",
+      "case_material": "Gold",
+      "dial_color": "Blue",
+      "band_material": "Metal"
+    },
+    {
+      "productId": 11,
+      "brand": "Garmin",
+      "movement": "Digital",
+      "water_resistance": "100m",
+      "case_material": "Plastic",
+      "dial_color": "Gray",
+      "band_material": "Rubber"
+    },
+    {
+      "productId": 12,
+      "brand": "Hamilton",
+      "movement": "Automatic",
+      "water_resistance": "100m",
+      "case_material": "Stainless Steel",
+      "dial_color": "Black",
+      "band_material": "Leather"
+    },
+    {
+      "productId": 13,
+      "brand": "Bulova",
+      "movement": "Quartz",
+      "water_resistance": "50m",
+      "case_material": "Stainless Steel",
+      "dial_color": "White",
+      "band_material": "Metal"
+    },
+    {
+      "productId": 14,
+      "brand": "TAG Heuer",
+      "movement": "Automatic",
+      "water_resistance": "200m",
+      "case_material": "Titanium",
+      "dial_color": "Black",
+      "band_material": "Rubber"
+    },
+    {
+      "productId": 15,
+      "brand": "Longines",
+      "movement": "Automatic",
+      "water_resistance": "300m",
+      "case_material": "Gold",
+      "dial_color": "Blue",
+      "band_material": "Leather"
+    }
+  ]
+}
